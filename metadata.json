@@ -1,0 +1,6 @@
+{
+  "name": "Planilha de Acompanhamento de Tarefas",
+  "description": "Acompanhamento de tarefas diarias em tempo real com controle de turnos entrada de voz e exportacao de relatorios.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
